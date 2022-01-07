@@ -1,0 +1,12 @@
+.c-input {
+  margin: 20px;
+  border: 1px solid black;
+  font-size: 14px;
+  width: 20%;
+  border: 2px solid #aaa;
+  border-radius: 4px;
+  outline: none;
+  padding: 8px;
+  box-sizing: border-box;
+  transition: 0.3s;
+}
