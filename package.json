@@ -1,7 +1,7 @@
 {
   "name": "react-monters-rolodex-hooks",
   "version": "0.1.0",
-  "homepage": "https://tolgakurtulus.github.io/react-monters-rolodex",
+  "homepage": "https://tolgakurtulus.github.io/Monsters-Roledex",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
