@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-monters-rolodex/static/css/main.5953d467.chunk.css",
+    "main.js": "/react-monters-rolodex/static/js/main.b6255ce4.chunk.js",
+    "main.js.map": "/react-monters-rolodex/static/js/main.b6255ce4.chunk.js.map",
+    "runtime-main.js": "/react-monters-rolodex/static/js/runtime-main.28f2096d.js",
+    "runtime-main.js.map": "/react-monters-rolodex/static/js/runtime-main.28f2096d.js.map",
+    "static/js/2.028abba0.chunk.js": "/react-monters-rolodex/static/js/2.028abba0.chunk.js",
+    "static/js/2.028abba0.chunk.js.map": "/react-monters-rolodex/static/js/2.028abba0.chunk.js.map",
+    "static/js/3.32711b9d.chunk.js": "/react-monters-rolodex/static/js/3.32711b9d.chunk.js",
+    "static/js/3.32711b9d.chunk.js.map": "/react-monters-rolodex/static/js/3.32711b9d.chunk.js.map",
+    "index.html": "/react-monters-rolodex/index.html",
+    "static/css/main.5953d467.chunk.css.map": "/react-monters-rolodex/static/css/main.5953d467.chunk.css.map",
+    "static/js/2.028abba0.chunk.js.LICENSE.txt": "/react-monters-rolodex/static/js/2.028abba0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28f2096d.js",
+    "static/js/2.028abba0.chunk.js",
+    "static/css/main.5953d467.chunk.css",
+    "static/js/main.b6255ce4.chunk.js"
+  ]
+}
